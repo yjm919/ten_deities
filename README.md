@@ -5,5 +5,7 @@ chinese traditional culture, mysterious，mystical culture,yijing,wuxing。
 有几篇对五行置换关系构成循环群的论文。可能是十神体系本身被关注的比较少，研究十神的文献只有几篇。群关系特别是置换群关系真正深刻理解的人也比较少。
 
 得到了一些有意义的结论。
+作者做了一个桌面版软件，实现排盘，立体呈现八字分布，便于分析。
+联系：yjm919@163.com
 
 ![微信图片_20250428202101](https://github.com/user-attachments/assets/3aa6ec0e-f35b-43a4-a9c5-85b3158c8fa9)
