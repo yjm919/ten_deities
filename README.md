@@ -6,3 +6,4 @@ chinese traditional culture, mysterious，mystical culture,yijing,wuxing。
 
 得到了一些有意义的结论。
 
+![微信图片_20250428202101](https://github.com/user-attachments/assets/3aa6ec0e-f35b-43a4-a9c5-85b3158c8fa9)
